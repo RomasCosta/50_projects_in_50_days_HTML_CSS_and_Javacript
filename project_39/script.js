@@ -1,20 +1,9 @@
-const contents = document.querySelectorAll('.content')
-const listItems = document.querySelectorAll('nav ul li')
+const password = document.getElementById('password')
+const background = document.getElementById('background')
 
-listItems.forEach((item, idx) => {
-  item.addEventListener('click', () => {
-    hideAllContents()
-    hideAllItems()
-
-    item.classList.add('active')
-    contents[idx].classList.add('show')
-  })
+password.addEventListener('input', (e) => {
+  const input = e.target.value
+  const length = input.length
+  const blurValue = 20 - length * 2
+  background.style.filter = `blur(${blurValue}px)`
 })
-
-function hideAllContents() {
-  contents.forEach(content => content.classList.remove('show'))
-}
-
-function hideAllItems() {
-  listItems.forEach(item => item.classList.remove('active'))
-}
