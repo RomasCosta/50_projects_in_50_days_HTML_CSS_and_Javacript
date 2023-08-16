@@ -43,7 +43,7 @@
 - projeto 39 : Password Strength , background se torna visível se senha é forte conforme configurada;
 - projeto 40 : 3D Background Boxes , quandro animado com efeito de divisão;
 - projeto 41 : Verify Account UI , interface de verificador de senha númerica; 
-- projeto 42 :
+- projeto 42 : Live User Filter, aplicação para testar filtro de usuário
 - projeto 43 :
 - projeto 44 :
 - projeto 45 :
