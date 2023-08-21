@@ -45,8 +45,8 @@
 - projeto 41 : Verify Account UI , interface de verificador de senha númerica; 
 - projeto 42 : Live User Filter , aplicação para testar filtro de usuário;
 - projeto 43 : Feedback UI Design , interface de feedback, alterei para liguagem de programação favorita;
-- projeto 44 :
-- projeto 45 :
+- projeto 44 : Custom Range Slider , barra de slider que demonstra porcentagem;
+- projeto 45 : Netflix Navigation , interface de menu navegação Netflix;
 - projeto 46 :
 - projeto 47 :
 - projeto 48 :
