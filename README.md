@@ -47,7 +47,7 @@
 - projeto 43 : Feedback UI Design , interface de feedback, alterei para liguagem de programação favorita;
 - projeto 44 : Custom Range Slider , barra de slider que demonstra porcentagem;
 - projeto 45 : Netflix Navigation , interface de menu navegação Netflix;
-- projeto 46 :
+- projeto 46 : Quiz App , interface com pergunta e respostas e pontuação ao final;
 - projeto 47 :
 - projeto 48 :
 - projeto 49 :
