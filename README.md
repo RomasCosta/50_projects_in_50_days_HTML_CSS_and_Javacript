@@ -51,6 +51,6 @@
 - projeto 47 : Testimonial Box Switcher , cards com descritivos pessoa vs cargo. Adaptei para séries;
 - projeto 48 : Random Image Feed , interface que mostra imagens aleatorias de tamanhos definidos;
 - projeto 49 : Todo List , lista de afazeres com implementação no Local Storage;
-- projeto 50 : Insect Catch Game , 
+- projeto 50 : Insect Catch Game , jogo de catar insetos , porém mudei para animais.
 
 #### Final dos projetos
