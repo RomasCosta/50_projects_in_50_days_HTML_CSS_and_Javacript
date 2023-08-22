@@ -50,7 +50,7 @@
 - projeto 46 : Quiz App , interface com pergunta e respostas e pontuação ao final;
 - projeto 47 : Testimonial Box Switcher , cards com descritivos pessoa vs cargo. Adaptei para séries;
 - projeto 48 : Random Image Feed , interface que mostra imagens aleatorias de tamanhos definidos;
-- projeto 49 : Todo List , 
+- projeto 49 : Todo List , lista de afazeres com implementação no Local Storage;
 - projeto 50 : Insect Catch Game , 
 
 #### Final dos projetos
